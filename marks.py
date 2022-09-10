@@ -1,3 +1,4 @@
+#creating a function to get marks and name
 class marks:
     name=""
     marks=""
